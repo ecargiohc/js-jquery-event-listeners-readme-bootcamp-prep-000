@@ -19,6 +19,10 @@ function submitIt() {
 }
 $(document).ready(function(){
 
+<<<<<<< HEAD
 submitIt();
+=======
+submitIt()
+>>>>>>> c5daec343ddb96ff6427600ccd47917d37981b3c
 
 });
